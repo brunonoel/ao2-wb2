@@ -13,7 +13,7 @@ Asegúrate de que el sistema del usuario cumpla con los siguientes requisitos an
 Sigue estos pasos para instalar y configurar la API en tu sistema:
 
 1. **Descargar el Código Fuente:**
-   - Descarga el código fuente de la API desde [enlace al repositorio de tu API].
+   - Descarga el código fuente de la API desde [https://github.com/brunonoel/ao2-wb2.git].
 
 2. **Instalar Dependencias:**
    - Abre una terminal en el directorio raíz del proyecto.
